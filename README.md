@@ -16,7 +16,7 @@
   
   A functional mysql server is required to use this app, and the .env.EXAMPLE must be updated with the local username and password.
 
-  Once MySQL is connected, use the schema.sql to create an empty ecommerce_db, then run the server.js to populate the models. After this the database can be seeded with example data by running the Develop/seeds/index.js in node.
+  Once MySQL is connected, use the schema.sql to create an empty ecommerce_db, then run the server.js to populate the models. After this the database can be seeded with example data by running the seeds/index.js in node.
 
  <font size="2"> Note: Once the models have been populated, it is reccomended to remove or comment out the sequelize.sync in server.js in favor of the commented out "app.listen" code below it. This will stop sequelize from running the models code every time the server is started. </font>
 
