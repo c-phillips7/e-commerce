@@ -50,6 +50,7 @@ router.post('/', (req, res) => {
   })
   .then(tag => {
     res.json(tag)
+    console.log('creating new tag');
   })
   .catch(err => {
     console.log(err);
@@ -65,6 +66,7 @@ router.put('/:id', (req, res) => {
   })
   .then(tag => {
     res.json(tag)
+    console.log('updating tag by id');
   })
   .catch(err => {
     console.log(err);
