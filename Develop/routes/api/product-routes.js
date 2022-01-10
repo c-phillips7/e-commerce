@@ -42,8 +42,8 @@ router.get('/:id', (req, res) => {
     }
   ]
   })
-  .then(category => {
-    res.json(category);
+  .then(product => {
+    res.json(product);
     console.log('showing product by id');
   })
   .catch(err => {
