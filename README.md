@@ -42,6 +42,10 @@
 
   ## Demonstration
 
-  Click the link for a demonstration of the app in action.
+  Click the link for a demonstration of the app in action:
+  
+  https://www.youtube.com/watch?v=-FrszfVyoRA
 
-  https://drive.google.com/file/d/1cu2QwB11zdcvCChOecbOhp6FFJw-KQby/view?usp=sharing
+  Alternate link:
+
+  https://drive.google.com/file/d/1aLA4WmHq8o-FbZEFAmqt8fB62OcuUk8X/view?usp=sharing
